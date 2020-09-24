@@ -4,11 +4,34 @@
   "description": "Internet Speed Test",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Abhijeet Sharma",
+  "author": {
+    "name": "Abhijeet Sharma",
+    "email": "abhijeetsharma248@gmail.com",
+    "url": "iamabs2001.github.io"
+  },
   "license": "ISC",
   "repository": {
     "url": "https://github.com/iamabs2001/ping-me"
+  },
+  "files": [
+    "index.js"  
+  ],
+  "bin": "index.js",
+  "bugs": {
+    "url": "https://github.com/iamabs2001/ping-me/issues",
+    "email": "abhijeetsharma248@gmail.com"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "log-symbols": "^2.2.0",
+    "log-update": "^2.3.0",
+    "meow": "^5.0.0",
+    "ora": "^3.1.0",
+    "round-to": "^3.0.0",
+    "speedtest-net": "^1.2.4",
+    "update-notifier": "^2.3.0"
   }
 }
