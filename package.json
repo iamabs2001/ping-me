@@ -7,13 +7,19 @@
     "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "ping","ping-this","pingthis","ping-cli","pingthiscli","ping-this-cli"
+  ],
   "author": {
     "name": "Abhijeet Sharma",
     "email": "abhijeetsharma248@gmail.com",
-    "url": "iamabs2001.github.io"
+    "url": "https://iamabs2001.github.io"
   },
+  "private":false,
+  "engines": {"node": ">=6.0.0"},
   "license": "ISC",
   "repository": {
+    "type": "git",
     "url": "https://github.com/iamabs2001/ping-this"
   },
   "files": [
