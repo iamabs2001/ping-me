@@ -1,6 +1,6 @@
 {
-  "name": "ping-me",
-  "version": "1.0.0",
+  "name": "ping-this",
+  "version": "1.0.1",
   "description": "Internet Speed Test",
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/iamabs2001/ping-me"
+    "url": "https://github.com/iamabs2001/ping-this"
   },
   "files": [
     "index.js"  
   ],
   "bin": "index.js",
   "bugs": {
-    "url": "https://github.com/iamabs2001/ping-me/issues",
+    "url": "https://github.com/iamabs2001/ping-this/issues",
     "email": "abhijeetsharma248@gmail.com"
   },
   "dependencies": {
