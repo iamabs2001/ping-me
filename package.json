@@ -1,6 +1,6 @@
 {
   "name": "ping-this",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "description": "Internet Speed Test",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ping","ping-this","pingthis","ping-cli","pingthiscli","ping-this-cli"
+    "ping","ping-this","pingthis"
   ],
   "author": {
     "name": "Abhijeet Sharma",
@@ -17,7 +17,7 @@
   },
   "private":false,
   "engines": {"node": ">=6.0.0"},
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/iamabs2001/ping-this"
